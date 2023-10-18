@@ -1,1 +1,1 @@
-# Postix-to-Infix using C
+# Infix to postfix using C
